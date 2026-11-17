@@ -1,0 +1,25 @@
+{"event-type": "init", "time": 1794747048, "user-id": "player_0001", "country": "Australia", "platform": "Android"}
+{"event-type": "init", "time": 1794747049, "user-id": "player_0002", "country": "United Kingdom", "platform": "Android"}
+{"event-type": "init", "time": 1794747050, "user-id": "player_0003", "country": "Spain", "platform": "iOS"}
+{"event-type": "init", "time": 1794747051, "user-id": "player_0004", "country": "United Kingdom", "platform": "Android"}
+{"event-type": "init", "time": 1794747052, "user-id": "player_0005", "country": "Australia", "platform": "iOS"}
+{"event-type": "init", "time": 1794747053, "user-id": "player_0006", "country": "Germany", "platform": "Android"}
+{"event-type": "init", "time": 1794747054, "user-id": "player_0007", "country": "Germany", "platform": "Android"}
+{"event-type": "init", "time": 1794747055, "user-id": "player_0008", "country": "India", "platform": "iOS"}
+{"event-type": "init", "time": 1794747056, "user-id": "player_0009", "country": "Spain", "platform": "iOS"}
+{"event-type": "init", "time": 1794747057, "user-id": "player_0010", "country": "India", "platform": "iOS"}
+{"event-type": "match", "time": 1794747058, "user-a": "player_0001", "user-b": "player_0002", "user-a-postmatch-info": {"coin-balance-after-match": 2353, "level-after-match": 16, "device": "Samsung Galaxy S24", "platform": "Android"}, "user-b-postmatch-info": {"coin-balance-after-match": 4567, "level-after-match": 6, "device": "Samsung Galaxy S24", "platform": "Android"}, "winner": "player_0002", "game-tier": 9, "duration": 453}
+{"event-type": "match", "time": 1794747059, "user-a": "player_0003", "user-b": "player_0004", "user-a-postmatch-info": {"coin-balance-after-match": 344, "level-after-match": 6, "device": "Samsung Galaxy S24", "platform": "iOS"}, "user-b-postmatch-info": {"coin-balance-after-match": 4697, "level-after-match": 13, "device": "Samsung Galaxy S24", "platform": "Android"}, "winner": "player_0003", "game-tier": 5, "duration": 1414}
+{"event-type": "match", "time": 1794747060, "user-a": "player_0005", "user-b": "player_0006", "user-a-postmatch-info": {"coin-balance-after-match": 3779, "level-after-match": 38, "device": "iPhone 15", "platform": "iOS"}, "user-b-postmatch-info": {"coin-balance-after-match": 3562, "level-after-match": 22, "device": "iPhone 15", "platform": "Android"}, "winner": "player_0005", "game-tier": 7, "duration": 223}
+{"event-type": "match", "time": 1794747061, "user-a": "player_0007", "user-b": "player_0008", "user-a-postmatch-info": {"coin-balance-after-match": 2857, "level-after-match": 7, "device": "iPhone 15", "platform": "Android"}, "user-b-postmatch-info": {"coin-balance-after-match": 3040, "level-after-match": 23, "device": "Samsung Galaxy S24", "platform": "iOS"}, "winner": "player_0007", "game-tier": 5, "duration": 838}
+{"event-type": "match", "time": 1794747062, "user-a": "player_0009", "user-b": "player_0010", "user-a-postmatch-info": {"coin-balance-after-match": 3863, "level-after-match": 35, "device": "Samsung Galaxy S24", "platform": "iOS"}, "user-b-postmatch-info": {"coin-balance-after-match": 4622, "level-after-match": 19, "device": "Samsung Galaxy S24", "platform": "iOS"}, "winner": "player_0010", "game-tier": 8, "duration": 1361}
+{"event-type": "in-app-purchase", "time": 1794747063, "purchase_value": 41.86, "user-id": "player_0001", "product-id": "coins_500"}
+{"event-type": "in-app-purchase", "time": 1794747064, "purchase_value": 19.13, "user-id": "player_0002", "product-id": "coins_500"}
+{"event-type": "in-app-purchase", "time": 1794747065, "purchase_value": 33.83, "user-id": "player_0003", "product-id": "coins_100"}
+{"event-type": "in-app-purchase", "time": 1794747066, "purchase_value": 30.84, "user-id": "player_0004", "product-id": "coins_500"}
+{"event-type": "in-app-purchase", "time": 1794747067, "purchase_value": 27.16, "user-id": "player_0005", "product-id": "coins_500"}
+{"event-type": "in-app-purchase", "time": 1794747068, "purchase_value": 9.0, "user-id": "player_0006", "product-id": "starter_bundle"}
+{"event-type": "in-app-purchase", "time": 1794747069, "purchase_value": 14.22, "user-id": "player_0007", "product-id": "coins_500"}
+{"event-type": "in-app-purchase", "time": 1794747070, "purchase_value": 34.54, "user-id": "player_0008", "product-id": "coins_100"}
+{"event-type": "in-app-purchase", "time": 1794747071, "purchase_value": 12.21, "user-id": "player_0009", "product-id": "coins_100"}
+{"event-type": "in-app-purchase", "time": 1794747072, "purchase_value": 40.44, "user-id": "player_0010", "product-id": "starter_bundle"}
