@@ -1,0 +1,42 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated data and Spark outputs
+sample_output/
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# Local databases
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Duplicate files mounted from the project root
+spark/data_quality/
+spark/schemas/
+
+# Original assessment brief
+DE Task.pdf

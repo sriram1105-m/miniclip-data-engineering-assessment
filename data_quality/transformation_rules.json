@@ -1,0 +1,22 @@
+
+{
+  "transformations": [
+    {
+      "field": "platform",
+      "operation": "uppercase",
+      "event_types": ["init"]
+    },
+    {
+      "field": "country",
+      "operation": "map_values",
+      "event_types": ["init"],
+      "mapping": {
+        "AU": "Australia",
+        "DE": "Germany",
+        "IN": "India",
+        "ES": "Spain",
+        "GB": "United Kingdom"
+      }
+    }
+  ]
+}
